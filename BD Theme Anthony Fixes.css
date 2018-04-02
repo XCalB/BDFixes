@@ -1,3 +1,7 @@
+:root {
+--Text: "Muffin";
+}
+
 #charcounter {
     bottom: -10px;
 }
@@ -5,7 +9,7 @@
     padding-top:71px;
 }
 .channel-members::before {
-    content: "Hey there c:";
+    content: var(--Text);
     font-family: "Satisfy";
     text-align: center;
         background: rgba(0, 0, 0, 0.7) !important;
