@@ -62,6 +62,22 @@
     flex-shrink: 0;
     text-shadow: 0px 1px 3px #000;
 }
+
+.small-TEeAkX .statusTyping-lRly31 {
+    width: 100%;
+}
+.avatar-small .status, .avatar-small{
+    border-radius: 0px;
+}
+.statusStreaming-1bZ3Hq {
+    background-color: transparent;
+    border: 2px solid #643da7 !important;
+}
+
+.autocomplete-1TnWNR .selectorSelected-2M0IGv {
+    background-color:rgba(0,0,0,0.7) !important;
+}
+
 /* Transparency */
 .theme-dark .channels-wrap, 
 .theme-dark .activityFeed-HeiGwL , 
