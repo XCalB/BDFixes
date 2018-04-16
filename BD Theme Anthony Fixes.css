@@ -38,34 +38,6 @@
     background-color:rgba(0,0,0,0.7) !important;
 }*/
 
-/* Transparency */
-/*.theme-dark .channels-wrap, 
-.theme-dark .activityFeed-HeiGwL , 
-#friends  .headerBar-cxbhPD , 
-.theme-dark .lfg-3xoFkI,
-.app .guilds .guild.active:first-child , 
-.theme-dark .guilds-wrapper ,.headerPlaying-2Q7mBy, 
-.userPopout-11hFKo .headerStreaming-lmgoma, 
-.userPopout-11hFKo .body-3ljq11, 
-.userPopout-11hFKo .footer-2wFs91,
-.headerNormal-3Vn9nT, 
-.headerStreaming-lmgoma,
-.theme-dark .title-wrap, 
-.theme-dark .channel-members, 
-.theme-dark .private-channel-call,
-.theme-dark .content .flex-spacer, 
-.theme-dark .friends-table, 
-.theme-dark .friends-header, 
-.headerSpotify-26yUf5,
-.channels-3g2vYe, #app-mount 
-.titleWrapper-3Vi_wz, 
-.app .guilds 
-.guild:first-child, 
-.theme-dark 
-.channel-members::after {
-    background: rgba(0, 0, 0, 0.7) !important;
-}*/
-
 #charcounter {
     bottom: 0px;
 }
