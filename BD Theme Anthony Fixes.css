@@ -27,3 +27,10 @@
 #charcounter {
     bottom: 0px;
 }
+.typing-3eiiL_ {
+    bottom: -5px !important;
+    left: -23px !important;
+}
+.theme-dark .message-group a {
+    color: var(--main-color) !important;
+}
